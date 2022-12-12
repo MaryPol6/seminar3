@@ -41,5 +41,14 @@ Git - это система контроля версий
 
     git checkout <hash>
 
+## Обзор изменениц
 
+Для того, чтобы просмотреть коммиты и изменения нужно:
+
+    git log
+    git log --oneline
+    git log --all
+    git log --all --oneline
+
+    
 
