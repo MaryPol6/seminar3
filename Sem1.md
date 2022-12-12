@@ -28,3 +28,10 @@ Git - это система контроля версий
     git commit -m "massage"
     git commit -am "massage"
 
+## Поиск различий 
+
+Для того, чтобы найти различия в изменениях нужно:
+
+    git diff
+    git diff <hash1> <hash2>
+
